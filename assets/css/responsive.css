@@ -1,0 +1,186 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ 
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+ 
+  
+  .header-social-link {
+    width: 100%;
+    text-align: center;
+}
+  
+  .header-contact-info ul li {
+    padding: 10px 5px;
+}
+  
+  .logo {
+    width: 100%;
+    text-align: center;
+}
+  
+  .search-form input[type="text"] {
+    margin-left: 15%;
+}
+  
+  .input-group-addon, .input-group-btn {
+    width: 30%;
+}
+  
+  .search-form i.fa {
+    right: 20%;
+    top: 76%;
+}
+  
+  .main-menu ul li a {
+    padding: 11px;
+}
+  
+  .slide-text {
+    padding-bottom: 60px;
+    padding-top: 10px;
+}
+  
+  .slide-text h5 {
+    font-size: 15px;
+}
+  
+  .slide-text h1 {
+    font-size: 21px;
+}
+  
+  .slide-btn ul li a {
+    padding: 5px 10px;
+}
+  
+  .slider-item-list .owl-dots {
+    bottom: 60px;
+}
+  
+  .about-text h2 {
+    margin-bottom: 15px;
+}
+  
+  .about-text a.about-btn {
+    margin-top: 5px;
+}
+  
+  .course-title h2 {
+    margin: -60px 0 15px;
+}
+  
+  .course-list {
+    margin-top: 10px;
+}
+  
+  .course-meta ul li.batch {
+    padding-right: 10px;
+    font-size: 11px;
+}
+  
+  .course-meta ul li.time {
+    font-size: 11px;
+}
+  
+  .course-detail > h4 {
+    margin-top: 45px;
+}
+  
+  .instructor {
+    margin-bottom: 0px;
+}
+  
+  .col-xs-6 {
+    width: 100%;
+    text-align: center;
+}
+  
+  .counter.single-fact {
+    margin-bottom: 20px;
+}
+  
+  .fact-icon i.fa {
+    font-size: 40px;
+    margin-bottom: 8px;
+    margin-top: 15px;
+    margin-left: 18px;
+  }
+  
+  .fact-detail h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+  .fact-detail p {
+    font-size: 15px;
+}
+  
+  .single-fact {
+    display: block;
+}
+  
+  
+  .team-member-list .owl-nav {
+    bottom: -50px;
+    left: 75px;
+}
+  
+  .testimonial-carousal-title {
+    margin-top: 80px;
+}
+  
+  .testimonial-carousal-title {
+    margin-bottom: 25px;
+}
+  
+  .testimonial-list .owl-nav {
+    bottom: -55px;
+    left: 75px;
+}
+    
+  .gallery-area.section-padding {
+    padding-top: 0px;
+}
+  
+  
+  .gallery-item-overlay {
+    height: 95%;
+}
+  
+  .contact-area.section-padding {
+    padding-top: 0px;
+}
+  
+  button.send-btn {
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+  
+  .map-area {
+    margin-top: 25px;
+}
+  
+  .opening-hours .time {
+    padding-right: 0px;
+}
+  
+  .opening-hours p {
+    text-align: center
+}
+  
+  .footer-social-link ul {
+    margin: 10px 21%;
+}
+  
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+}
